@@ -29,7 +29,7 @@
               </a>
             </li>
           </ul>
-          <p class="copyright text-muted">Copyright &copy; fukane LLC 2020</p>
+          <p class="copyright text-muted">Copyright &copy; fukaneblog 2020</p>
         </div>
       </div>
     </div>
